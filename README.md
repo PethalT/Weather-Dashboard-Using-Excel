@@ -1,5 +1,6 @@
 # Weather-Dashboard-Using-Excel
 📘 **Project Overview**
+
 This project automates the process of collecting, refreshing, and visualizing daily weather data using the **Visual Crossing Weather API** integrated into **Microsoft Excel**. The dashboard presents live updates for temperature, humidity, wind speed, and precipitation trends, helping users analyze daily and historical weather patterns through an interactive and visually engaging interface.
 
 🚀 **Key Features**
