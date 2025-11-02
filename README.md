@@ -25,3 +25,4 @@ This project automates the process of collecting, refreshing, and visualizing da
 * **Wind Speed (km/h):** Directional and speed trends
 * **Precipitation:** Rainfall and weather condition distribution
 
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/eab93e7c-d609-45b8-8a98-863a406894a7" />
